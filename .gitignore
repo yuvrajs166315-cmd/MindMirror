@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+mindmirror.db
+*.db
+*.sqlite
+*.sqlite3
+.env
+.env.*
+*.token
+*.key
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.streamlit/secrets.toml
+*.log
+
+# Local development backups
+*_backup*.py
+app_old.py
+ai_engine_before_*.py
+
+*_before_*.py
+*_working.py
